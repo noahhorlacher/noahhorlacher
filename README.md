@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @noahhorlacher
 - 👀 I’m interested in pigeons and js
 - 🌱 Constantly learning
+- 💘 I love Vue
